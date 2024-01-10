@@ -2,15 +2,11 @@
 
 Ecommerce app UI
 
-## Getting Started
+To run app in Android Studio, 
+ 1.Open the folder in android studio.
+ 2. Start the Emulator or Connect physical device after switching on the USB debugging,
+ 3. then run by default android studio method or "flutter run" in terminal in android studio.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run app in VScode,
+1.open the folder in project folder in VScode,
+2.run by "flutter run" command in terminal of VScode
